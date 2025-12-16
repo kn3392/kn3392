@@ -2,7 +2,8 @@
 
 <!-- ===================== HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Nil%20Kachhadiya&fontSize=42&fontAlignY=35&desc=BCA%20Student%20•%20Web%20%26%20Software%20Developer&descAlignY=55&animation=fadeIn" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Nil%20Kachhadiya&fontSize=42&fontAlignY=35&desc=BCA%20Student%20-%20Web%20and%20Software%20Developer&descAlignY=55&animation=fadeIn" />
+
 </p>
 
 <p align="center">

@@ -2,11 +2,11 @@
 
 <!-- ===================== HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=230&section=header&text=Nil%20Kachhadiya&fontSize=45&fontAlignY=35&desc=BCA%20Student%20•%20Web%20%26%20Software%20Developer&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Nil%20Kachhadiya&fontSize=42&fontAlignY=35&desc=BCA%20Student%20•%20Web%20%26%20Software%20Developer&descAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=750&lines=BCA+Student;Web+%26+Software+Developer;HTML+CSS+Java+Python;SQL+MySQL+MongoDB;Learning+and+Building+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&center=true&vCenter=true&width=760&lines=BCA+Student;Web+and+Software+Developer;HTML+CSS+Java+Python;SQL+MySQL+MongoDB;Learning+and+Building+Every+Day" />
 </p>
 
 <p align="center">
@@ -19,49 +19,53 @@
 
 ---
 
-## 🧠 Identity
+## 👨‍💻 About Me
 
-> **BCA student and aspiring Web & Software Developer**  
-> Studying at **Sutex Bank College of Computer Applications & Science**  
-> Focused on writing **clean, logical, and practical code** while continuously improving my skills.
+I am a **Bachelor of Computer Applications (BCA)** student at  
+**Sutex Bank College of Computer Applications & Science**, Surat.
 
-- 🎓 Degree: **Bachelor of Computer Applications (BCA)**
+I am passionate about **web development, software programming, and database technologies**.  
+My goal is to build **clean, logical, and practical applications** while continuously improving my technical skills.
+
+- 🎓 Degree: **BCA**
 - 🏫 College: **Sutex Bank College of Computer Applications & Science**
 - 🏫 Schooling: **Vashisht Vidyalaya, Surat**
-- 🧭 Direction: Web Development → Software Development
-- ⚙️ Style: Clean code, structured logic, consistent learning
-- 🚀 Goal: Become a skilled Software / Full-Stack Developer
+- 📍 Location: **Surat, India**
+- 🎯 Career Goal: **Software / Full-Stack Developer**
 
 ---
 
 ## 🛠 Skills & Technologies
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
-</p>
+- Java  
+- Python  
+- JavaScript  
 
 ### 🌐 Web Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
+- HTML  
+- CSS  
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
+### 🗄 Databases
+- SQL  
+- MySQL  
+- MongoDB  
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
+- Git  
+- GitHub  
+- Visual Studio Code  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Learning Focus
 
 ```txt
-• Strengthening Web Development fundamentals
-• Improving Java & Python programming skills
-• Practicing SQL, MySQL & MongoDB
+• Strengthening core Web Development concepts
+• Improving Java and Python programming skills
+• Practicing database design and queries
 • Building academic and personal projects

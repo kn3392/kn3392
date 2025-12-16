@@ -1,52 +1,79 @@
+<!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Nil Kachhadiya</h1>
-<h3 align="center">BCA Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">BCA Student | Web & Software Developer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Learning+Through+Every+Season;Growing+With+Consistency;Building+Real+World+Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=BCA+Student+at+Sutex+Bank+College;Web+Developer+%7C+Backend+Learner;HTML+CSS+Java+Python;SQL+MongoDB+MySQL" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌦️ About Me
+## 👨‍💻 About Me
 
-🎓 **Bachelor of Computer Applications (BCA)**  
-🏫 *Sutex Bank College of Computer Applications & Science*, Surat  
-📘 Schooling: *Vashisht Vidyalaya, Surat*
+- 🎓 **Bachelor of Computer Applications (BCA)**  
+  **Sutex Bank College of Computer Applications & Science**
 
-💡 I believe learning happens in **seasons** — every phase brings growth.  
-That philosophy defines my journey and my projects.
+- 🏫 Completed schooling from  
+  **Vashisht Vidyalaya, Surat**
 
----
+- 💡 Passionate about **Web Development**, **Programming**, and **Databases**
 
-## 💻 Skills
+- 🌱 Currently improving skills in **Backend & Full-Stack Development**
 
-**Frontend**  
-HTML • CSS  
-
-**Languages**  
-Java • Python  
-
-**Databases**  
-SQL • MySQL • MongoDB  
+- 🚀 Believe in *learning by building real projects*
 
 ---
 
-## 🚀 Season – My Journey
+## 🛠️ Tech Stack & Skills
 
-**Season** is my personal learning archive.  
-Each project reflects a new level of understanding, logic, and confidence.
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
----
+### ⚙️ Backend & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
-## 📊 GitHub Analytics
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kn3392&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kn3392&theme=transparent" width="48%" />
+### 🔧 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-<p align="center">
-  🌱 <i>Every season builds something new.</i>
+## 🏆 Achievements & Badges
+
+<p>
+  <img src="https://img.shields.io/badge/BCA-Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Developer-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open-Source-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lifelong-Learner-purple?style=for-the-badge" />
 </p>
+
+---
+
+## 📂 Projects & Learning Focus
+
+```txt
+📦 My Development Journey
+ ┣ 🌐 Web Development Projects
+ ┃ ┣ HTML / CSS Websites
+ ┃ ┣ JavaScript Mini Projects
+ ┃ ┗ Responsive UI Designs
+ ┣ ⚙️ Programming
+ ┃ ┣ Java Applications
+ ┃ ┗ Python Scripts
+ ┣ 🗄️ Database Work
+ ┃ ┣ SQL & MySQL Practice
+ ┃ ┗ MongoDB CRUD Operations
+ ┗ 🚀 Upcoming
+   ┣ Full Stack Projects
+   ┣ API Development
+   ┗ Real-World Applications
